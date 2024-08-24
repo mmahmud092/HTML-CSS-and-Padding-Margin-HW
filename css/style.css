@@ -1,0 +1,38 @@
+/*---- Home Page Design ----*/
+h1{
+	color: whitesmoke;
+	background-color: orangered;
+	width: 800px;
+	padding: 30px;
+	margin: 60px;
+}
+.abc{
+	color: black;
+	background-color: seashell;
+	border: 5px dotted blueviolet;
+	width: 800px;
+	padding: 50px;
+	margin: 60px;
+}
+
+#head3{
+	border: 5px solid orangered;
+	margin: 60px;
+}
+
+.footer{
+	color: black;
+	background-color: lightblue;
+	width: 1000;
+	padding: 25px;
+	margin: 50;
+	border-radius: 10px;
+}
+
+.header{
+	color: black;
+	background-color: lightblue;
+	width: 1000;
+	padding: 25px;
+	margin: 50;
+}
